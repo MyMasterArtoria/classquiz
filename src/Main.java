@@ -17,7 +17,7 @@ public class Main {
         bubbleSort(inputs);
 
         assertTrue(Arrays.equals(inputs, expects));
-        qwerqwe
+        
     }
 
 	// to sort in ascending order
